@@ -1,3 +1,5 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <!doctype html>
 <html lang="pe">
 
@@ -11,7 +13,7 @@
 
 
 
-  <title>Iniciar sesión</title>
+  <title>Iniciar sesiÃ³n</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
       
@@ -184,8 +186,8 @@ for (i = 0; i < a.length; i++) {
 <div class="fb-customerchat"
   attribution=setup_tool
   page_id="133049494059979"
-  logged_in_greeting="Hola, ¿Cómo estas? ¿Te podemos ayudar en algo?"
-  logged_out_greeting="Hola, ¿Cómo estas? ¿Te podemos ayudar en algo?">
+  logged_in_greeting="Hola, Â¿CÃ³mo estas? Â¿Te podemos ayudar en algo?"
+  logged_out_greeting="Hola, Â¿CÃ³mo estas? Â¿Te podemos ayudar en algo?">
 </div>
 
 <!-- END Facebook SDK for JavaScript -->
@@ -234,8 +236,8 @@ for (i = 0; i < a.length; i++) {
         </div>
     </div>
     <div class="mid-col-content">
-                    <div><a href="#" class="colorTitulos">Protección del comprador</a></div>
-                    <div><a href="#" class="colorTitulos">Envío gratis</a></div>
+                    <div><a href="#" class="colorTitulos">ProtecciÃ³n del comprador</a></div>
+                    <div><a href="#" class="colorTitulos">EnvÃ­o gratis</a></div>
                     <div><a href="#" class="colorTitulos">Consultas</a></div>
             </div>
 
@@ -265,7 +267,7 @@ for (i = 0; i < a.length; i++) {
 <div id="search_widget" class="search-widget" data-search-controller-url="#">
 	<form method="get" action="#">
 		<input type="hidden" name="controller" value="search">
-		<input type="text" name="s" value="" placeholder="Búsqueda en catálogo" aria-label="Buscar">
+		<input type="text" name="s" value="" placeholder="BÃºsqueda en catÃ¡logo" aria-label="Buscar">
 		<button type="submit">
 			<!--<i class="material-icons search">&#xE8B6;</i>--> 
      <!-- <span class="icon-search" ></span>-->
@@ -304,7 +306,7 @@ for (i = 0; i < a.length; i++) {
 <div id="search_widget" class="search-widget" data-search-controller-url="#">
 	<form method="get" action="#">
 		<input type="hidden" name="controller" value="search">
-		<input type="text" name="s" value="" placeholder="Búsqueda en catálogo" aria-label="Buscar">
+		<input type="text" name="s" value="" placeholder="BÃºsqueda en catÃ¡logo" aria-label="Buscar">
 		<button type="submit">
       <span class="icon-search"></span> 
       <span class="hidden-xl-down">Buscar</span>
@@ -324,7 +326,7 @@ for (i = 0; i < a.length; i++) {
         rel="nofollow"
       >
         <img src="img\usu.png" height="20px" class="responsive1"></img>
-        <span class="hidden-sm-down">Iniciar sesión</span>
+        <span class="hidden-sm-down">Iniciar sesiÃ³n</span>
       </a>
       </div>
 </div>
@@ -732,7 +734,7 @@ for (i = 0; i < a.length; i++) {
                 class="dropdown-item"
                 href="#" data-depth="2"
                               >
-                                Sofá
+                                SofÃ¡
               </a>
                           </li>
                     <li class="category" id="category-110">
@@ -740,7 +742,7 @@ for (i = 0; i < a.length; i++) {
                 class="dropdown-item"
                 href="#" data-depth="2"
                               >
-                                Sofá Reclinable
+                                SofÃ¡ Reclinable
               </a>
                           </li>
                     <li class="category" id="category-42">
@@ -796,7 +798,7 @@ for (i = 0; i < a.length; i++) {
                 class="dropdown-item"
                 href="#" data-depth="2"
                               >
-                                Sillón reclinable
+                                SillÃ³n reclinable
               </a>
                           </li>
                     <li class="category" id="category-172">
@@ -933,7 +935,7 @@ for (i = 0; i < a.length; i++) {
                 class="dropdown-item"
                 href="#" data-depth="2"
                               >
-                                Chaise longue - Tántrico
+                                Chaise longue - TÃ¡ntrico
               </a>
                           </li>
               </ul>
@@ -1325,7 +1327,7 @@ for (i = 0; i < a.length; i++) {
                       <img src="https://img.icons8.com/plumpy/50/000000/chevron-down.png" class="ocultarmenu" onclick="aparecermenu(20)" style="height: 20px;" />
                      <!-- <i class="material-icons remove">&#xE316;</i>-->
 
-        <img src="https://img.icons8.com/plumpy/24/000000/chevron-up.png" class="aparecermenu"´ onclick="mostramasmenu(20)" style="height: 20px;display: none;" />
+        <img src="https://img.icons8.com/plumpy/24/000000/chevron-up.png" class="aparecermenu"Â´ onclick="mostramasmenu(20)" style="height: 20px;display: none;" />
                     </span>
                   </span>
                                 Organizadores de dormitorio
@@ -1338,7 +1340,7 @@ for (i = 0; i < a.length; i++) {
                 class="dropdown-item"
                 href="#" data-depth="2"
                               >
-                                Cómodas
+                                CÃ³modas
               </a>
                           </li>
                     <li class="category" id="category-162">
@@ -1584,7 +1586,7 @@ for (i = 0; i < a.length; i++) {
       
         <header class="page-header">
           <h1>
-  Iniciar sesión con su cuenta
+  Iniciar sesiÃ³n con su cuenta
 </h1>
         </header>
       
@@ -1617,7 +1619,7 @@ for (i = 0; i < a.length; i++) {
             
   <div class="form-group row ">
     <label class="col-md-3 form-control-label required">
-              Dirección de correo electrónico
+              DirecciÃ³n de correo electrÃ³nico
           </label>
     <div class="col-md-6">
 
@@ -1649,7 +1651,7 @@ for (i = 0; i < a.length; i++) {
             
   <div class="form-group row ">
     <label class="col-md-3 form-control-label required">
-              Contraseña
+              ContraseÃ±a
           </label>
     <div class="col-md-6">
 
@@ -1693,8 +1695,8 @@ for (i = 0; i < a.length; i++) {
           
               
       <div class="forgot-password">
-        <a href="https://www.hogaryspacios.com/recuperar-contraseña" rel="nofollow">
-          ¿Olvidó su contraseña?
+        <a href="https://www.hogaryspacios.com/recuperar-contraseÃ±a" rel="nofollow">
+          Â¿OlvidÃ³ su contraseÃ±a?
         </a>
       </div>
     </section>
@@ -1704,7 +1706,7 @@ for (i = 0; i < a.length; i++) {
         <input type="hidden" name="submitLogin" value="1">
         
           <button id="submit-login" class="btn btn-primary" data-link-action="sign-in" type="submit" class="form-control-submit">
-            Iniciar sesión
+            Iniciar sesiÃ³n
           </button>
         
       </footer>
@@ -1720,7 +1722,7 @@ for (i = 0; i < a.length; i++) {
       
       <div class="no-account">
         <a href="https://www.hogaryspacios.com/iniciar-sesion?create_account=1" data-link-action="display-register-form">
-          ¿No tiene una cuenta? Cree una aquí
+          Â¿No tiene una cuenta? Cree una aquÃ­
         </a>
       </div>
     
@@ -1805,9 +1807,9 @@ for (i = 0; i < a.length; i++) {
                 id="link-cms-page-2-2"
                 class="cms-page-link"
                 href="https://www.hogaryspacios.com/content/2-legal-notice"
-                title="Términos legales de campaña"
+                title="TÃ©rminos legales de campaÃ±a"
                             >
-              Términos legales de campaña
+              TÃ©rminos legales de campaÃ±a
             </a>
           </li>
                   <li>
@@ -1815,9 +1817,9 @@ for (i = 0; i < a.length; i++) {
                 id="link-cms-page-3-2"
                 class="cms-page-link"
                 href="https://www.hogaryspacios.com/content/3-terminos-condiciones-uso"
-                title="Nuestros Términos y condiciones"
+                title="Nuestros TÃ©rminos y condiciones"
                             >
-              Términos y condiciones
+              TÃ©rminos y condiciones
             </a>
           </li>
                   <li>
@@ -1855,7 +1857,7 @@ for (i = 0; i < a.length; i++) {
                 id="link-static-page-contact-2"
                 class="cms-page-link"
                 href="https://www.hogaryspacios.com/contactenos"
-                title="Contáctenos"
+                title="ContÃ¡ctenos"
                             >
               Contacte con nosotros
             </a>
@@ -1865,7 +1867,7 @@ for (i = 0; i < a.length; i++) {
                 id="link-static-page-sitemap-2"
                 class="cms-page-link"
                 href="https://www.hogaryspacios.com/mapa del sitio"
-                title="¿Perdido? Encuentre lo que está buscando"
+                title="Â¿Perdido? Encuentre lo que estÃ¡ buscando"
                             >
               Mapa del sitio
             </a>
@@ -1914,8 +1916,8 @@ for (i = 0; i < a.length; i++) {
   </div>
   <ul class="account-list collapse" id="footer_account_list">
             <li>
-          <a href="https://www.hogaryspacios.com/datos-personales" title="Información personal" rel="nofollow">
-            Información personal
+          <a href="https://www.hogaryspacios.com/datos-personales" title="InformaciÃ³n personal" rel="nofollow">
+            InformaciÃ³n personal
           </a>
         </li>
             <li>
@@ -1952,7 +1954,7 @@ for (i = 0; i < a.length; i++) {
       <h3>OFERTAS Y DESCUENTOS EXCLUSIVOS</h3>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-      <p id="block-newsletter-label">Infórmese de nuestras últimas noticias y ofertas especiales</p>
+      <p id="block-newsletter-label">InfÃ³rmese de nuestras Ãºltimas noticias y ofertas especiales</p>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-7 col-lg-12">
       <form action="https://www.hogaryspacios.com/#footer" method="post">
@@ -1976,7 +1978,7 @@ for (i = 0; i < a.length; i++) {
                 name="email"
                 type="email"
                 value=""
-                placeholder="Su dirección de correo electrónico"
+                placeholder="Su direcciÃ³n de correo electrÃ³nico"
                 aria-labelledby="block-newsletter-label"
               >
             </div>
@@ -1984,7 +1986,7 @@ for (i = 0; i < a.length; i++) {
             <div class="clearfix"></div>
           </div>
           <div class="col-xs-12">
-                              <p>Puede darse de baja en cualquier momento. Para ello, consulte nuestra información de contacto en el aviso legal.</p>
+                              <p>Puede darse de baja en cualquier momento. Para ello, consulte nuestra informaciÃ³n de contacto en el aviso legal.</p>
                                                           
                         </div>
         </div>
